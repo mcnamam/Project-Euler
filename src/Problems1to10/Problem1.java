@@ -12,6 +12,7 @@ public class Problem1 {
         final int MAX = 1000;
         int sum = 0;
 
+        // iterate through all numbers from 3 to MAX to find multiples of 3 or 5
         for (int i = 3; i < MAX; i++) {
             if (i % 3 == 0 || i % 5 == 0) {
                 sum += i;
