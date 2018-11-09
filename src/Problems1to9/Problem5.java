@@ -1,4 +1,4 @@
-package Problems1to10;
+package Problems1to9;
 
 import java.util.Arrays;
 import java.util.List;

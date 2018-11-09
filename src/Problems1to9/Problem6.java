@@ -1,4 +1,4 @@
-package Problems1to10;
+package Problems1to9;
 
 /**
  * The sum of the squares of the first ten natural numbers is 1^2 + 2^2 + ... + 10^2 = 385

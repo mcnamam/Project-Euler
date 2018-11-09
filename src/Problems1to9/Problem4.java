@@ -1,4 +1,4 @@
-package Problems1to10;
+package Problems1to9;
 
 /**
  * A palindromic number reads the same both ways.
